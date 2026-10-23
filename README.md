@@ -1,7 +1,7 @@
 # docs
 
 [![docs](https://github.com/go-control/docs/actions/workflows/docs.yml/badge.svg)](https://github.com/go-control/docs/actions/workflows/docs.yml)
-[![License](https://img.shields.io/badge/license-BSD--3--Clause-0E6B7D?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/license-BSD--3--Clause-0D7131?style=flat-square)](LICENSE)
 
 **The go-control documentation site**, published at
 <https://go-control.github.io/docs/>.

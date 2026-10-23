@@ -1,29 +1,29 @@
 /* go-control branding on Hextra (github.com/go-control/brand).
  *
- * The mark's gradient, #3FB6CC -> #0E6B7D (branding/svg/color/go-control.svg).
+ * The mark's gradient, #33BF66 -> #0D7131 (branding/svg/color/go-control.svg).
  * Hextra derives its whole primary scale (links, active sidebar entry,
  * buttons) from these three variables.
  *
- * Light theme: #0E6B7D = hsl(190 80% 27%), the gradient's dark end
- *              (6.14:1 on white).
- * Dark theme:  #3FB6CC = hsl(189 58% 52%), its light end (8.07:1 on the dark
+ * Light theme: #0D7131 = hsl(142 79% 25%), the gradient's dark end
+ *              (6.13:1 on white).
+ * Dark theme:  #33BF66 = hsl(142 58% 48%), its light end (8.08:1 on the dark
  *              background). */
 :root {
-  --primary-hue: 190deg;
-  --primary-saturation: 80%;
-  --primary-lightness: 27%;
+  --primary-hue: 142deg;
+  --primary-saturation: 79%;
+  --primary-lightness: 25%;
 }
 .dark {
-  --primary-hue: 189deg;
+  --primary-hue: 142deg;
   --primary-saturation: 58%;
-  --primary-lightness: 52%;
+  --primary-lightness: 48%;
 }
 
 /* Tables: their headers stand out in the brand colour and their text is a
  * size smaller than the prose. In the dark theme the header keeps the dark
- * end: white on #3FB6CC cannot be read. */
+ * end: white on #33BF66 cannot be read. */
 .content table { font-size: 0.875em; }
-.content table th { background: #0E6B7D; color: #fff; }
+.content table th { background: #0D7131; color: #fff; }
 
 /* The version selector's list hangs from its button's right edge, so that it
  * stays on screen at the end of the navbar. */
