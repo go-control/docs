@@ -26,9 +26,9 @@ systems are feasible; index reduction belongs to `model`.
 
 | Subject | Reference |
 | --- | --- |
-| DAE, BDF | Brenan, Campbell and Petzold, *Numerical Solution of Initial-Value Problems in Differential-Algebraic Equations*, SIAM 1996, [doi:10.1137/1.9781611971224](https://doi.org/10.1137/1.9781611971224); Petzold, SIAM J. Sci. Stat. Comput. 4(1), 1983, [doi:10.1137/0904010](https://doi.org/10.1137/0904010) |
-| Radau, mass matrix | Hairer and Wanner, *Solving Ordinary Differential Equations II*, 2nd ed., Springer 1996, [doi:10.1007/978-3-642-05221-7](https://doi.org/10.1007/978-3-642-05221-7) |
-| consistent initial conditions | Brown, Hindmarsh and Petzold, SIAM J. Sci. Comput. 19(5), 1998, [doi:10.1137/S1064827595289996](https://doi.org/10.1137/S1064827595289996) |
+| DAE, BDF | Brenan, Campbell and Petzold, *Numerical Solution of Initial-Value Problems in Differential-Algebraic Equations*, SIAM 1996, doi:10.1137/1.9781611971224; Petzold, SIAM J. Sci. Stat. Comput. 4(1), 1983, doi:10.1137/0904010 |
+| Radau, mass matrix | Hairer and Wanner, *Solving Ordinary Differential Equations II*, 2nd ed., Springer 1996, doi:10.1007/978-3-642-05221-7 |
+| consistent initial conditions | Brown, Hindmarsh and Petzold, SIAM J. Sci. Comput. 19(5), 1998, doi:10.1137/S1064827595289996 |
 
 ## How it will be validated
 

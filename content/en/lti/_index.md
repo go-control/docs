@@ -25,8 +25,8 @@ It needs the non-symmetric eigenvalue solver, QZ and `expm` that go-ndarray's
 
 | Subject | Reference |
 | --- | --- |
-| frequency response | Laub, "Efficient multivariable frequency response computations", IEEE TAC 26(2), 1981, [doi:10.1109/TAC.1981.1102602](https://doi.org/10.1109/TAC.1981.1102602): Hessenberg reduction, then one solve per frequency |
-| matrix exponential | Al-Mohy and Higham, SIAM J. Matrix Anal. Appl. 31(3), 2009, [doi:10.1137/09074721X](https://doi.org/10.1137/09074721X) |
+| frequency response | Laub, "Efficient multivariable frequency response computations", IEEE TAC 26(2), 1981, doi:10.1109/TAC.1981.1102602: Hessenberg reduction, then one solve per frequency |
+| matrix exponential | Al-Mohy and Higham, SIAM J. Matrix Anal. Appl. 31(3), 2009, doi:10.1137/09074721X |
 | stability margins | Skogestad and Postlethwaite, *Multivariable Feedback Control*, 2nd ed., Wiley 2005 |
 | textbook examples | Franklin, Powell and Emami-Naeini, *Feedback Control of Dynamic Systems*, 8th ed., Pearson 2019 |
 

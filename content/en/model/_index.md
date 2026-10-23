@@ -26,8 +26,8 @@ library: MapleSim's component libraries are proprietary and are not planned.
 
 | Subject | Reference |
 | --- | --- |
-| index reduction | Pantelides, SIAM J. Sci. Stat. Comput. 9(2), 1988, [doi:10.1137/0909014](https://doi.org/10.1137/0909014); Mattsson and Soderlind, SIAM J. Sci. Comput. 14(3), 1993, [doi:10.1137/0914043](https://doi.org/10.1137/0914043) |
-| block ordering | Tarjan, SIAM J. Comput. 1(2), 1972, [doi:10.1137/0201010](https://doi.org/10.1137/0201010) |
+| index reduction | Pantelides, SIAM J. Sci. Stat. Comput. 9(2), 1988, doi:10.1137/0909014; Mattsson and Soderlind, SIAM J. Sci. Comput. 14(3), 1993, doi:10.1137/0914043 |
+| block ordering | Tarjan, SIAM J. Comput. 1(2), 1972, doi:10.1137/0201010 |
 | language | the [Modelica Language Specification 3.6](https://specification.modelica.org/), as target vocabulary only |
 
 ## How it will be validated

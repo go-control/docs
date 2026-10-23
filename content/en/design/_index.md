@@ -23,11 +23,11 @@ It depends on `lti` and on Schur reordering, QZ and `expm` in go-ndarray's
 
 | Subject | Reference |
 | --- | --- |
-| CARE and DARE | Laub, "A Schur method for solving algebraic Riccati equations", IEEE TAC 24(6), 1979, [doi:10.1109/TAC.1979.1102178](https://doi.org/10.1109/TAC.1979.1102178) |
-| Riccati refinement | Kleinman, IEEE TAC 13(1), 1968, [doi:10.1109/TAC.1968.1098829](https://doi.org/10.1109/TAC.1968.1098829) |
-| Sylvester and Lyapunov | Bartels and Stewart, CACM 15(9), 1972, [doi:10.1145/361573.361582](https://doi.org/10.1145/361573.361582); Hammarling, IMA J. Numer. Anal. 2(3), 1982, [doi:10.1093/imanum/2.3.303](https://doi.org/10.1093/imanum/2.3.303) |
-| exact zero-order hold | Van Loan, IEEE TAC 23(3), 1978, [doi:10.1109/TAC.1978.1101743](https://doi.org/10.1109/TAC.1978.1101743) |
-| pole placement | Kautsky, Nichols and Van Dooren, Int. J. Control 41(5), 1985, [doi:10.1080/0020718508961188](https://doi.org/10.1080/0020718508961188) |
+| CARE and DARE | Laub, "A Schur method for solving algebraic Riccati equations", IEEE TAC 24(6), 1979, doi:10.1109/TAC.1979.1102178 |
+| Riccati refinement | Kleinman, IEEE TAC 13(1), 1968, doi:10.1109/TAC.1968.1098829 |
+| Sylvester and Lyapunov | Bartels and Stewart, CACM 15(9), 1972, doi:10.1145/361573.361582; Hammarling, IMA J. Numer. Anal. 2(3), 1982, doi:10.1093/imanum/2.3.303 |
+| exact zero-order hold | Van Loan, IEEE TAC 23(3), 1978, doi:10.1109/TAC.1978.1101743 |
+| pole placement | Kautsky, Nichols and Van Dooren, Int. J. Control 41(5), 1985, doi:10.1080/0020718508961188 |
 
 ## How it will be validated
 
